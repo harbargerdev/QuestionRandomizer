@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<QuestionRandomizer.SharedLibrary.Entities.Question>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
@@ -8,5 +10,21 @@
 
 <div class="text-center">
     <h3>Here are 20 randomly selected relationship questions.</h3>
-
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Text)</th>
+                <th>@Html.DisplayNameFor(model => model.Points)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Text)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Points)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
 </div>
