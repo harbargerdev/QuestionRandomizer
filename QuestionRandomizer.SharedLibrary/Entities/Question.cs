@@ -15,6 +15,6 @@
         /// <summary>
         /// Question Point Value
         /// </summary>
-        public string Points { get; set; }
+        public int Points { get; set; }
     }
 }
