@@ -31,10 +31,18 @@ namespace QuestionRandomizer.SharedLibrary
                 throw new Exception("Invalid parameter sent, count should be less than initial questions.");
             else if (count == _initialQuestions.Count)
                 return _initialQuestions; // Shortcut if full list is requested
-            
+
+            _availableQuestions = new List<Question>(_initialQuestions);
+            Random random = new Random();
             List<Question> questions = new List<Question>();
 
-
+            while(questions.Count < count)
+            {
+                int position = random.Next(0, _availableQuestions.Count - 1);
+                Question question = _availableQuestions[position];
+                questions.Add(question);
+                _availableQuestions.RemoveAt(position);
+            }
 
             return questions;
         }
