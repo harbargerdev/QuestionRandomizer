@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using QuestionRandomizer.SharedLibrary.Entities;
 using QuestionRandomizer.Website.Models;
 
 namespace QuestionRandomizer.Website.Controllers
@@ -20,7 +21,8 @@ namespace QuestionRandomizer.Website.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            List<Question> questions = new List<Question>();
+            return View(questions);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
