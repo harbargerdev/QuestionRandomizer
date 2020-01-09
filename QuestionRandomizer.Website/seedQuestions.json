@@ -1,0 +1,302 @@
+[
+  {
+    "Number": 1,
+    "Text": "Name my two closest friends.",
+    "Points": 2
+  },
+  {
+    "Number": 2,
+    "Text": "What is my favorite musical group, composer, or instrument?",
+    "Points": 2
+  },
+  {
+    "Number": 3,
+    "Text": "What was I wearing when we first met?",
+    "Points": 2
+  },
+  {
+    "Number": 4,
+    "Text": "Name one of my hobbies.",
+    "Points": 3
+  },
+  {
+    "Number": 5,
+    "Text": "Where was I born?",
+    "Points": 1
+  },
+  {
+    "Number": 6,
+    "Text": "What stresses am I facing right now?",
+    "Points": 4
+  },
+  {
+    "Number": 7,
+    "Text": "Describe in detail what I did today, or yesterday.",
+    "Points": 4
+  },
+  {
+    "Number": 8,
+    "Text": "When is my birthday?",
+    "Points": 1
+  },
+  {
+    "Number": 9,
+    "Text": "What is the date of our anniversary?",
+    "Points": 1
+  },
+  {
+    "Number": 10,
+    "Text": "Who is my favorite relative?",
+    "Points": 2
+  },
+  {
+    "Number": 11,
+    "Text": "What is my fondest unrealized dream?",
+    "Points": 5
+  },
+  {
+    "Number": 12,
+    "Text": "what is my favorite website?",
+    "Points": 2
+  },
+  {
+    "Number": 13,
+    "Text": "What is one of my greatest fears or disaster scenarios?",
+    "Points": 3
+  },
+  {
+    "Number": 14,
+    "Text": "What is my favorite time of day for lovemaking?",
+    "Points": 3
+  },
+  {
+    "Number": 15,
+    "Text": "What makes me feel most competent?",
+    "Points": 4
+  },
+  {
+    "Number": 16,
+    "Text": "What turns me on sexually?",
+    "Points": 3
+  },
+  {
+    "Number": 17,
+    "Text": "What is my favorite meal?",
+    "Points": 2
+  },
+  {
+    "Number": 18,
+    "Text": "What is my favorite way to spend an evening?",
+    "Points": 2
+  },
+  {
+    "Number": 19,
+    "Text": "What is my favorite color?",
+    "Points": 1
+  },
+  {
+    "Number": 20,
+    "Text": "What personal improvements do I want to make in my life?",
+    "Points": 4
+  },
+  {
+    "Number": 21,
+    "Text": "What kind of present would I like the best?",
+    "Points": 2
+  },
+  {
+    "Number": 22,
+    "Text": "What was one of my best childhood experiences?",
+    "Points": 2
+  },
+  {
+    "Number": 23,
+    "Text": "What was my favorite vacation?",
+    "Points": 2
+  },
+  {
+    "Number": 24,
+    "Text": "What is one of my favorite ways to relax?",
+    "Points": 4
+  },
+  {
+    "Number": 25,
+    "Text": "Who is my greatest source of support (other than you)?",
+    "Points": 3
+  },
+  {
+    "Number": 26,
+    "Text": "What is my favorite sport?",
+    "Points": 2
+  },
+  {
+    "Number": 27,
+    "Text": "What do I most like to do with time off?",
+    "Points": 2
+  },
+  {
+    "Number": 28,
+    "Text": "What is one of my favorite weekend activities?",
+    "Points": 2
+  },
+  {
+    "Number": 29,
+    "Text": "What is my dream getaway place?",
+    "Points": 3
+  },
+  {
+    "Number": 30,
+    "Text": "What is my favorite movie?",
+    "Points": 2
+  },
+  {
+    "Number": 31,
+    "Text": "What are some of the important events coming up in my life? How do I feel about them?",
+    "Points": 4
+  },
+  {
+    "Number": 32,
+    "Text": "What are some of my favorite ways to work out?",
+    "Points": 2
+  },
+  {
+    "Number": 33,
+    "Text": "Who was my best friend in childhood?",
+    "Points": 3
+  },
+  {
+    "Number": 34,
+    "Text": "What is one of my favorite magazines?",
+    "Points": 2
+  },
+  {
+    "Number": 35,
+    "Text": "Name one of my major rivals or \"enemies.\"",
+    "Points": 3
+  },
+  {
+    "Number": 36,
+    "Text": "What would I consider my ideal job?",
+    "Points": 4
+  },
+  {
+    "Number": 37,
+    "Text": "What do I fear the most?",
+    "Points": 4
+  },
+  {
+    "Number": 38,
+    "Text": "Who is my least favorite relative?",
+    "Points": 3
+  },
+  {
+    "Number": 39,
+    "Text": "What is my favorite holiday?",
+    "Points": 2
+  },
+  {
+    "Number": 40,
+    "Text": "What kinds of books do I most like to read?",
+    "Points": 3
+  },
+  {
+    "Number": 41,
+    "Text": "What is my favorite TV show?",
+    "Points": 2
+  },
+  {
+    "Number": 42,
+    "Text": "Which side of the bed do I prefer?",
+    "Points": 2
+  },
+  {
+    "Number": 43,
+    "Text": "What am I most sad about?",
+    "Points": 4
+  },
+  {
+    "Number": 44,
+    "Text": "Name one of my concerns or worries.",
+    "Points": 4
+  },
+  {
+    "Number": 45,
+    "Text": "What medical problems do I worry about?",
+    "Points": 2
+  },
+  {
+    "Number": 46,
+    "Text": "What was my most embarrassing moment?",
+    "Points": 3
+  },
+  {
+    "Number": 47,
+    "Text": "What was my worst childhood experience?",
+    "Points": 3
+  },
+  {
+    "Number": 48,
+    "Text": "Name two of the people I most admire.",
+    "Points": 4
+  },
+  {
+    "Number": 49,
+    "Text": "Name my major rival or enemy.",
+    "Points": 3
+  },
+  {
+    "Number": 50,
+    "Text": "Of all the people we both know, who do I like the least?",
+    "Points": 3
+  },
+  {
+    "Number": 51,
+    "Text": "What is one of my favorite desserts?",
+    "Points": 2
+  },
+  {
+    "Number": 52,
+    "Text": "What is my social security number?",
+    "Points": 2
+  },
+  {
+    "Number": 53,
+    "Text": "Name one of my favorite novels.",
+    "Points": 2
+  },
+  {
+    "Number": 54,
+    "Text": "What is my favorite restaurant?",
+    "Points": 2
+  },
+  {
+    "Number": 55,
+    "Text": "What are two of my aspirations, hopes, wishes?",
+    "Points": 4
+  },
+  {
+    "Number": 56,
+    "Text": "Do I have a secret ambition? What is it?",
+    "Points": 4
+  },
+  {
+    "Number": 57,
+    "Text": "What foods do I hate?",
+    "Points": 2
+  },
+  {
+    "Number": 58,
+    "Text": "What is my favorite anmial?",
+    "Points": 2
+  },
+  {
+    "Number": 59,
+    "Text": "What is my favorite song?",
+    "Points": 2
+  },
+  {
+    "Number": 60,
+    "Text": "Which sports team is my favorite?",
+    "Points": 2
+  }
+]
